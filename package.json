@@ -1,0 +1,15 @@
+{
+  "name": "not_so_sober_spencer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koy Herrick <herrickoy@gmail.com> (https://www.npmjs.com/~herrickoy)",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
